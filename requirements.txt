@@ -1,0 +1,6 @@
+Plaintext
+streamlit
+mediapipe
+opencv-python-headless
+pillow
+numpy
